@@ -43,3 +43,7 @@ wget https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-ins
 Conteúdo: Para iniciar o processo de instalação, basta executar o script e seguir as instruções na tela:
 
 '''BASH
+ ./hst-install.sh
+ '''
+ 
+ Conteúdo: Você receberá um e-mail de boas-vindas no endereço especificado durante a instalação (se aplicável) e instruções na tela após a conclusão da instalação para efetuar login e acessar seu servidor.
